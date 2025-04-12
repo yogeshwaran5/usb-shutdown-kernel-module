@@ -6,7 +6,7 @@
 #include <linux/reboot.h>
 #include <linux/slab.h>
 
-MODULE_LICENSE("GPLv2");
+MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Yogeshwaran");
 MODULE_DESCRIPTION("Shutdown system on USB device insertion");
 MODULE_VERSION("1.0");
